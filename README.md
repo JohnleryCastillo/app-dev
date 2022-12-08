@@ -9,3 +9,9 @@ My first repository
 | **Real Steel**  | *In the near future, robot boxing is a top sport. A struggling ex-boxer feels he's found a champion in a discarded robot.* |
 | **Purple Hearts** | *In spite of their many differences, Cassie, a struggling singer-songwriter, and Luke, a troubled Marine, agree to marry solely for military benefits. But when tragedy strikes, the line between real and pretend begins to blur. * |
 
+
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+

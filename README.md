@@ -3,4 +3,6 @@ My first repository
 ## My Favorite Movies
 
 -*Titanic*
-![titanic](https://user-images.githubusercontent.com/103471862/206363466-bd511137-7a6d-4b85-a6b3-b97f3f661428.jpg)
+
+
+![titanic (1)](https://user-images.githubusercontent.com/103471862/206368874-a81af25d-cbfe-4a43-97df-3add986c05e1.jpg)

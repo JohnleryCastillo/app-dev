@@ -2,8 +2,7 @@
 My first repository 🖤:
 ## My Favorite Movies 🎥 😍
 
-- **Titanic**  
-: *A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.*
+- **Titanic**  : *A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.*
 
 ![titanic (1)](https://user-images.githubusercontent.com/103471862/206368874-a81af25d-cbfe-4a43-97df-3add986c05e1.jpg)
 

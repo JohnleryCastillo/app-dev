@@ -2,7 +2,7 @@
 My first repository
 ## Favortive Movies
 
-| Movie Title | Description |
+| **Movie Title** | **Description** |
 | :----------- | :----------- |
 | **Titanic** | *A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.* |
 | **Forever My Girl** |  *After being gone for a decade a country star returns home to the love he left behind.* |

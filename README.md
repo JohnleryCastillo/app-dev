@@ -10,4 +10,4 @@ My first repository
 - *Forever My Girl*
 
 
-![for (1)](https://user-images.githubusercontent.com/103471862/206371905-ada5c598-973c-41b5-96a3-596100b44155.jpg)
+![for](https://user-images.githubusercontent.com/103471862/206372069-40d7c3a7-3a2e-4a91-b863-ba98ad791e7c.jpg)

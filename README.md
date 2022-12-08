@@ -13,7 +13,6 @@ My first repository 🖤🖤
 ![for](https://user-images.githubusercontent.com/103471862/206372474-512b36f4-cf81-4372-8d9e-1043d65542d2.jpg)
 
 
-- **Midnight Sun**
-: *A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight.*
+- **Midnight Sun** : *A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight.*
 
 ![maxresdefault (1)](https://user-images.githubusercontent.com/103471862/206373887-01e7b938-bc87-45cb-b24a-650a296e418f.jpg)
